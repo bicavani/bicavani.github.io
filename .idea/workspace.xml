@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3351992f-398d-4c41-97d0-41f16725304d" name="Default Changelist" comment="v1">
+    <list default="true" id="3351992f-398d-4c41-97d0-41f16725304d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="56" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="56" />
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -212,7 +211,7 @@
       <workItem from="1560867793021" duration="2460000" />
       <workItem from="1560912729785" duration="14712000" />
       <workItem from="1560942177873" duration="646000" />
-      <workItem from="1560999349028" duration="4016000" />
+      <workItem from="1560999349028" duration="5848000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1561001622412</created>
@@ -228,11 +227,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561001738396</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v1">
+      <created>1561004524969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561004524969</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v1">
+      <created>1561007424849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561007424850</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26292000" />
+    <option name="totallyTimeSpent" value="28124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -337,7 +350,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="56" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="56" />
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
         </state>
       </provider>
     </entry>
